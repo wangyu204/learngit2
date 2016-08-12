@@ -10,3 +10,4 @@ Creating a new branch is quick & simple.
 分支管理策略
 
 fix issue-101
+fix issue-102
