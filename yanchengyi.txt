@@ -9,6 +9,8 @@ Creating a new branch is quick & simple.
 
 分支管理策略
 
+
 dev 中开发， stash之前
 
-wangyu
+wangyu2
+
